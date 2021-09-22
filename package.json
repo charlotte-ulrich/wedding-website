@@ -1,7 +1,7 @@
 {
-  "name": "Charlotte-Ulrich-Portfolio",
+  "name": "wedding_website",
   "version": "2.0.0",
-  "description": "Allow me to introduce myself!",
+  "description": "We're getting married!",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
@@ -28,7 +28,8 @@
     "jsonwebtoken": "^8.5.1",
     "morgan": "^1.9.1",
     "pg": "^8.5.1",
-    "sequelize": "^6.3.5"
+    "sequelize": "^6.3.5",
+    "uuidv4": "^6.2.12"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
